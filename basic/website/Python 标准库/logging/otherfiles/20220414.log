@@ -1,0 +1,8 @@
+2022:04:14 10:30:38 将日志事件记录到文件.py[line:16] DEBUG this is a logging debug
+2022:04:14 10:30:38 将日志事件记录到文件.py[line:17] INFO this is a logging info
+2022:04:14 10:30:38 将日志事件记录到文件.py[line:18] WARNING this is a logging warning
+2022:04:14 10:30:38 将日志事件记录到文件.py[line:19] ERROR this is a logging error
+2022-04-14 11:59:03,060 - handlers-example - INFO - info message
+2022-04-14 11:59:03,060 - handlers-example - WARNING - warn message
+2022-04-14 11:59:03,060 - handlers-example - ERROR - error message
+2022-04-14 11:59:03,060 - handlers-example - CRITICAL - critical message
