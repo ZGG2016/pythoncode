@@ -21,4 +21,4 @@ logger.warning('warn message')
 logger.error('error message')
 logger.critical('critical message')
 
-logger.log(level=logging.INFO,msg='log info message')
+logger.log(level=logging.INFO, msg='log info message')
